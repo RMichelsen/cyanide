@@ -47,13 +47,13 @@ highlight Cursor		guibg=NONE		guifg=NONE		gui=inverse
 highlight LineNr		guibg=NONE		guifg=#937e62
 highlight CursorLineNr  guibg=NONE		guifg=#ffffff
 
-highlight Question		guibg=NONE		guifg=#3fdf1f
+highlight Question		guibg=NONE		guifg=#38c81b
 
 highlight Visual		guibg=NONE		guifg=NONE		gui=inverse
 
 highlight Error			guibg=NONE		guifg=#e83c3c
    
-highlight Comment		guibg=NONE		guifg=#3fdf1f 
+highlight Comment		guibg=NONE		guifg=#38c81b
    
 highlight Constant		guibg=NONE		guifg=#90ee90
    

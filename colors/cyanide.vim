@@ -31,12 +31,13 @@ highlight ColorColumn	guibg=#e83c3c	guifg=#072626
 highlight SignColumn	guibg=NONE		guifg=#90ee90
 
 hi! link Pmenu Normal
-highlight PmenuSel		guibg=#90ee90	guifg=#072626
-highlight PmenuSbar		guibg=#d3b58d	guifg=#072626
-highlight PmenuThumb	guibg=#d3b58d	guifg=#072626
+highlight Pmenu			guibg=#1f3b3b   guifg=#d3b58d
+highlight PmenuSel		guibg=#73be73	guifg=#1f3b3b
+highlight PmenuSbar		guibg=#d3b58d	guifg=#1f3b3b
+highlight PmenuThumb	guibg=#d3b58d	guifg=#1f3b3b
 
 hi! link TabLine Normal
-highlight TabLineSel	guibg=#90ee90	guifg=#072626
+highlight TabLineSel	guibg=#487748	guifg=#d3b58d	gui=NONE
 
 highlight CursorColumn	guibg=#385151	guifg=NONE
 highlight CursorLine	guibg=#385151	guifg=NONE
